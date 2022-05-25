@@ -11,8 +11,5 @@ const fibonacci = function(number) {
     return b;
 };
 
-for (let i = 0; i < 100; i++) {
-    console.log(fibonacci(i));
-}
 // Do not edit below this line
 module.exports = fibonacci;
